@@ -1,7 +1,6 @@
-
-![Licença MIT](https://opensource.org/files/OSI_Approved_Icons/MIT_Logo.svg)
-
 # Chatbot com Aprendizado de Máquina
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Este é um chatbot baseado em aprendizado de máquina que utiliza o modelo Naive Bayes para responder perguntas baseadas em um conjunto de dados fornecido via arquivo Excel ou banco de dados SQLite.
 
