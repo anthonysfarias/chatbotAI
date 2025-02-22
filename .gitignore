@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+database/chatbot.db
+
+results/
+
+# Caches e logs
+*.log
+*.out
+*.err
+
+# Configurações de ambiente virtual
+venv/
+.env
+*.env
+
+# Dependências
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Modelos treinados e datasets
+models/
+checkpoints/
+datasets/
+*.h5
+*.hdf5
+*.ckpt
+*.pth
+*.pt
+*.onnx
+*.tflite
+*.pb
+*.pkl
+
+# Arquivos de experimentos
+wandb/
+mlruns/
+
+# Configuração do VSCode / PyCharm
+.vscode/
+.idea/
+
+# Docker
+*.dockerignore
+docker-compose.override.yml
+
+# Outros
+.DS_Store
+Thumbs.db
