@@ -57,4 +57,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ---
 
-Criado com 💙 por anthonysfarias
+Criado com 💙 por [Seu Nome]
